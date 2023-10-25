@@ -61,11 +61,6 @@ seo:
   # ...
 ---
 
-# Hello!
-
-Hello! My name is Jakub and I'm a self-hosting enthusiast, programming aficionado, and avid mechanical keyboard collector.
-
-
 ## What do I do in my free time?
 
 In addition to my day-to-day work, I'm engaged in several personal projects related to Path of Exile and self-hosting.
@@ -88,7 +83,7 @@ I have a passion for self hosting stuff and working with servers. I have some eq
 
 ### [TFT Trade Extension](http://chrome.extension.tftrove.com)
 
-This is a browser extensions with a bunch of addons for a Path of Exile trade website. A bunch of people are already using it.
+This is a browser extensions with a bunch of addons for a Path of Exile trade website. Over 60 000 people are already using it.
 
 * [firefox](http://firefox.extension.tftrove.com)
 * [chrome](http://chrome.extension.tftrove.com)
